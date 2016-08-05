@@ -141,6 +141,12 @@ $this->fontdata = array(
 		'BI' => "FreeMonoBoldOblique.ttf",
 		),
 
+    'alexbrush' => array(
+        'R' => 'AlexBrush-Regular.ttf'
+    ),
+    'materialicons' => array(
+        'R' => 'MaterialIcons-Regular.ttf'
+    ),
 
 /* OCR-B font for Barcodes */
 	"ocrb" => array(
